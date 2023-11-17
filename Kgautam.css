@@ -1,4 +1,4 @@
- @media (max-width:1300px) and (max-height:700px) {
+
 * {
   margin: 0;
   padding: 0;
@@ -380,7 +380,7 @@ h6 {
   font-size: 14px;
   color: #007bff;
 }
-}
+
 
 
 @media screen and ( max-width: 1872px) and (max-height: 966px) {
